@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <span style="color: green;">VINAY KUMAR</span><img style="height: 30px; width: 30px" src="https://camo.githubusercontent.com/5b1d19c098b5c2da449b71ba5db1f48b108efe70a70d5e104ba7539ddb54a5d1/68747470733a2f2f63646e332e656d6f6a692e67672f656d6f6a69732f363138362d646576656c6f7065722d626f742e676966" alt=""></h1>
-<img align="center" style="height: 50%; width: 100%;" src="https://www.codewithkartik.com/wp-content/uploads/2021/08/Untitled-design-11-805x452.png" alt="">
+<img align="center" style="height: 40%; width: 100%;" src="https://www.codewithkartik.com/wp-content/uploads/2021/08/Untitled-design-11-805x452.png" alt="">
 <h3 align="center" style="font-size: 25px;">A passionate <span style="color: rgb(43, 177, 230);">Full Stack Web Developer</span> from <span style="color: rgb(255, 9, 255);">India</span></h3>
 <img align="right" src="https://academy.avast.com/hubfs/New_Avast_Academy/Hackers/Hacker-Hero-a1.png" alt="" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=77vinaykumar&label=Profile%20views&color=0e75b6&style=flat" alt="77vinaykumar" /> </p>
