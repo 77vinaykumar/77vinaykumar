@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/77vinaykumar](https://github.com/77vinaykumar)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap5, React, vue, mongodb, Node js**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap5, React, vue, mongodb, Node js**, postman
 
 - 📫 How to reach me **mahlawatvinay1996@gmail.com**
 
